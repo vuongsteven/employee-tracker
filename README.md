@@ -1,2 +1,2 @@
 Employee Tracker CRUD App 
-Using: React, Express, Axios, and mySQL
+using React, Express, Axios, and mySQL
